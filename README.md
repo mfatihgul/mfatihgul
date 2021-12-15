@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammet Fatih Gul</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
+<p align="left"> <a href="https://twitter.com/mfg7i" target="blank"><img src="https://img.shields.io/twitter/follow/mfg7i?logo=twitter&style=for-the-badge" alt="mfg7i" /></a> </p>
+
 - 🌱 I’m currently learning **React JS**
+
+- 📝 I regularly write articles on [https://dev.to/mfatihgul](https://dev.to/mfatihgul)
 
 - 📫 How to reach me **mfg7ix@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mfatih-gul/](https://www.linkedin.com/in/mfatih-gul/)
+
+- ⚡ Fun fact **I'm a self-taught developer**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,6 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/mfatihgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mfatihgul" height="30" width="40" /></a>
 <a href="https://dev.to/mfatihgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mfatihgul" height="30" width="40" /></a>
+<a href="https://twitter.com/mfg7i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mfg7i" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mfatih-gul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfatih-gul" height="30" width="40" /></a>
 <a href="https://instagram.com/mfg7i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfg7i" height="30" width="40" /></a>
 </p>
