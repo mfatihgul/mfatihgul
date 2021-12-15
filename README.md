@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Why Medium is not good for developers](https://dev.to/mfatihgul/why-medium-is-not-good-for-developers-3n57)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
