@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mfg7ix@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mfatih-gul/](https://www.linkedin.com/in/mfatih-gul/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mfatih-gul/](https://www.linkedin.com/in/mfatih-gul/?locale=en_US)
 
 - ⚡ Fun fact **I'm a self-taught developer**
 
