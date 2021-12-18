@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I'm a self-taught developer**
 
+- 🎯 2022 Goals: Learning MERN Stack
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 [Why Medium is not good for developers](https://dev.to/mfatihgul/why-medium-is-not-good-for-developers-3n57)
