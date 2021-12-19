@@ -18,6 +18,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 [Why Medium is not good for developers](https://dev.to/mfatihgul/why-medium-is-not-good-for-developers-3n57)
+
 [How I made a live code editor with Vanilla Javascript?](https://dev.to/mfatihgul/how-i-made-my-own-code-editor-3ce3)
 <!-- BLOG-POST-LIST:END -->
 
