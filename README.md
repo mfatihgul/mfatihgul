@@ -22,6 +22,8 @@
 [How I made a live code editor with Vanilla Javascript?](https://dev.to/mfatihgul/how-i-made-my-own-code-editor-3ce3)
 <!-- BLOG-POST-LIST:END -->
 
+![snake svg](https://github.com/mfatihgul/mfatihgul/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mfatihgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mfatihgul" height="30" width="40" /></a>
